@@ -1,4 +1,4 @@
-CALCULATOR PROJECT 
+WELCOME TO MY 2nd PROJECT ON CALCULATOR
 
 Designed a simple calculator which can perform basic arithmetic operations.Performed calculation and display the desired result.
 
